@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://example.com/contact/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/contact/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/contact/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/contact/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/contact/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/contact/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/contact/"/>
+    </url>
+    <url>
+        <loc>https://example.com/faq/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/faq/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/faq/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/faq/"/>
+    </url>
+    <url>
+        <loc>https://example.com/gallery/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/gallery/"/>
+    </url>
+    <url>
+        <loc>https://example.com/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/"/>
+    </url>
+    <url>
+        <loc>https://example.com/parking/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/parking/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/parking/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/parking/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/parking/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/parking/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/parking/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/parking/"/>
+    </url>
+    <url>
+        <loc>https://example.com/rooms/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/rooms/"/>
+    </url>
+    <url>
+        <loc>https://example.com/services/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/services/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/services/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/services/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/services/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/services/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/services/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/services/"/>
+    </url>
+    <url>
+        <loc>https://example.com/cs/contact/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/contact/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/contact/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/contact/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/contact/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/contact/"/>
+    </url>
+    <url>
+        <loc>https://example.com/cs/faq/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/faq/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/faq/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/faq/"/>
+    </url>
+    <url>
+        <loc>https://example.com/cs/gallery/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/gallery/"/>
+    </url>
+    <url>
+        <loc>https://example.com/cs/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/"/>
+    </url>
+    <url>
+        <loc>https://example.com/cs/parking/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/parking/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/parking/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/parking/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/parking/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/parking/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/parking/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/parking/"/>
+    </url>
+    <url>
+        <loc>https://example.com/cs/rooms/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/rooms/"/>
+    </url>
+    <url>
+        <loc>https://example.com/cs/services/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/services/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/services/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/services/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/services/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/services/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/services/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/services/"/>
+    </url>
+    <url>
+        <loc>https://example.com/fr/contact/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/contact/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/contact/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/contact/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/contact/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/contact/"/>
+    </url>
+    <url>
+        <loc>https://example.com/fr/faq/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/faq/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/faq/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/faq/"/>
+    </url>
+    <url>
+        <loc>https://example.com/fr/gallery/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/gallery/"/>
+    </url>
+    <url>
+        <loc>https://example.com/fr/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/"/>
+    </url>
+    <url>
+        <loc>https://example.com/fr/parking/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/parking/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/parking/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/parking/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/parking/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/parking/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/parking/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/parking/"/>
+    </url>
+    <url>
+        <loc>https://example.com/fr/rooms/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/rooms/"/>
+    </url>
+    <url>
+        <loc>https://example.com/fr/services/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/services/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/services/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/services/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/services/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/services/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/services/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/services/"/>
+    </url>
+    <url>
+        <loc>https://example.com/ru/contact/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/contact/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/contact/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/contact/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/contact/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/contact/"/>
+    </url>
+    <url>
+        <loc>https://example.com/ru/faq/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/faq/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/faq/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/faq/"/>
+    </url>
+    <url>
+        <loc>https://example.com/ru/gallery/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/gallery/"/>
+    </url>
+    <url>
+        <loc>https://example.com/ru/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/"/>
+    </url>
+    <url>
+        <loc>https://example.com/ru/parking/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/parking/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/parking/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/parking/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/parking/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/parking/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/parking/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/parking/"/>
+    </url>
+    <url>
+        <loc>https://example.com/ru/rooms/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/rooms/"/>
+    </url>
+    <url>
+        <loc>https://example.com/ru/services/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/services/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/services/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/services/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/services/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/services/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/services/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/services/"/>
+    </url>
+    <url>
+        <loc>https://example.com/it/contact/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/contact/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/contact/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/contact/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/contact/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/contact/"/>
+    </url>
+    <url>
+        <loc>https://example.com/it/faq/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/faq/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/faq/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/faq/"/>
+    </url>
+    <url>
+        <loc>https://example.com/it/gallery/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/gallery/"/>
+    </url>
+    <url>
+        <loc>https://example.com/it/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/"/>
+    </url>
+    <url>
+        <loc>https://example.com/it/parking/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/parking/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/parking/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/parking/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/parking/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/parking/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/parking/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/parking/"/>
+    </url>
+    <url>
+        <loc>https://example.com/it/rooms/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/rooms/"/>
+    </url>
+    <url>
+        <loc>https://example.com/it/services/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/services/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/services/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/services/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/services/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/services/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/services/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/services/"/>
+    </url>
+    <url>
+        <loc>https://example.com/de/contact/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/contact/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/contact/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/contact/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/contact/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/contact/"/>
+    </url>
+    <url>
+        <loc>https://example.com/de/faq/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/faq/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/faq/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/faq/"/>
+    </url>
+    <url>
+        <loc>https://example.com/de/gallery/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/gallery/"/>
+    </url>
+    <url>
+        <loc>https://example.com/de/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/"/>
+    </url>
+    <url>
+        <loc>https://example.com/de/parking/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/parking/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/parking/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/parking/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/parking/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/parking/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/parking/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/parking/"/>
+    </url>
+    <url>
+        <loc>https://example.com/de/rooms/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/rooms/"/>
+    </url>
+    <url>
+        <loc>https://example.com/de/services/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/services/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/services/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/services/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/services/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/services/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/services/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/services/"/>
+    </url>
+    <url>
+        <loc>https://example.com/es/contact/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/contact/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/contact/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/contact/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/contact/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/contact/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/contact/"/>
+    </url>
+    <url>
+        <loc>https://example.com/es/faq/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/faq/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/faq/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/faq/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/faq/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/faq/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/faq/"/>
+    </url>
+    <url>
+        <loc>https://example.com/es/gallery/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/gallery/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/gallery/"/>
+    </url>
+    <url>
+        <loc>https://example.com/es/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/"/>
+    </url>
+    <url>
+        <loc>https://example.com/es/parking/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/parking/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/parking/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/parking/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/parking/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/parking/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/parking/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/parking/"/>
+    </url>
+    <url>
+        <loc>https://example.com/es/rooms/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/rooms/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/rooms/"/>
+    </url>
+    <url>
+        <loc>https://example.com/es/services/</loc>
+        <lastmod>2025-06-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://example.com/es/services/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://example.com/cs/services/"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://example.com/de/services/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://example.com/services/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://example.com/fr/services/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://example.com/it/services/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://example.com/ru/services/"/>
+    </url>
+</urlset>
