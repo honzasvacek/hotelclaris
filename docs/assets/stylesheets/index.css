@@ -154,7 +154,7 @@
   }
 }
 .hero-banner {
-  background-image: url('/hotelclaris/assets/fotky-hotelu/hero.png'); /* set your image path */
+  background-image: url('../fotky-hotelu/hero.webp'); /* set your image path */
   background-position: center; /* adjust to show more of the top */
   background-repeat: no-repeat;
   background-size: cover;
@@ -162,7 +162,7 @@
 }
 @media (max-width: 650px) {
   .hero-banner {
-    background-image: url('/hotelclaris/assets/fotky-hotelu/hero-phone.png');
+    background-image: url('../fotky-hotelu/hero-phone.webp');
   }
 }
 .promo-sticker-bar {
