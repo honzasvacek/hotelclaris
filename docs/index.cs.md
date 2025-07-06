@@ -67,7 +67,7 @@ hide:
 </form>
 </div>
 <!-- END: Full-width Hero Banner -->
-<link rel="stylesheet" href="/hotelclaris/assets/stylesheets/index.css">
+<link rel="stylesheet" href="/assets/stylesheets/index.css">
 
 ## Vítejte v hotelu CLARIS!
 
@@ -76,11 +76,11 @@ Nabízíme ubytování ve dvoulůžkových a jednolůžkových pokojích v kateg
 <!-- START: Room Cards -->
 <section class="featured-rooms-section">
   <div class="featured-room" onclick="location.href='02.rooms/#jednoluzkove-pokoje'">
-    <img src="/hotelclaris/assets/fotky-hotelu/jednoluzko-komfort2.jpg" alt="Jednolůžkový apartmán">
+    <img src="/assets/fotky_hotelu/jednoluzko.webp" alt="Jednolůžkový apartmán">
     <div class="room-label">Jednolůžkové</div>
   </div>
   <div class="featured-room" onclick="location.href='02.rooms/#dvouluzkove-pokoje'">
-    <img src="/hotelclaris/assets/fotky-hotelu/dvojluzko-2-komfort.jpg" alt="Dvoulůžkový apartmán">
+    <img src="/assets/fotky_hotelu/dvouluzko.webp" alt="Dvoulůžkový apartmán">
     <div class="room-label">Dvoulůžkové</div>
   </div>
 </section>
