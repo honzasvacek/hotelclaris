@@ -1,5 +1,6 @@
 site_name: Hotel CLARIS
 site_url: https://honzasvacek.github.io/hotelclaris/
+use_directory_urls: true
 site_description: "Hotel CLARIS - Luxury accommodation in Prague with modern rooms, excellent service, and convenient location"
 theme:
   name: material
