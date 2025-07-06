@@ -61,7 +61,7 @@ hide:
   </form>
 </div>
 <!-- END: Full-width Hero Banner -->
-<link rel="stylesheet" href="hotelclaris/assets/stylesheets/index.css">
+<link rel="stylesheet" href="hotelclaris/hotelclaris/assets/stylesheets/index.css">
 
 ## Willkommen im Hotel CLARIS!
 
@@ -70,11 +70,11 @@ Wir bieten Einzel- und Doppelzimmer in den Kategorien Standard und Komfort!
 <!-- START: Room Cards -->
 <section class="featured-rooms-section">
   <div class="featured-room" onclick="location.href='02.rooms/#einzelzimmer'">
-    <img src="hotelclaris/assets/fotky-hotelu/jednoluzko-komfort2.jpg" alt="Einzelzimmer">
+    <img src="hotelclaris/hotelclaris/assets/fotky-hotelu/jednoluzko-komfort2.jpg" alt="Einzelzimmer">
     <div class="room-label">Einzelzimmer</div>
   </div>
   <div class="featured-room" onclick="location.href='02.rooms/#doppelzimmer'">
-    <img src="hotelclaris/assets/fotky-hotelu/dvojluzko-2-komfort.jpg" alt="Doppelzimmer">
+    <img src="hotelclaris/hotelclaris/assets/fotky-hotelu/dvojluzko-2-komfort.jpg" alt="Doppelzimmer">
     <div class="room-label">Doppelzimmer</div>
   </div>
 </section>

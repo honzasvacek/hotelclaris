@@ -61,7 +61,7 @@ hide:
   </form>
 </div>
 <!-- END: Full-width Hero Banner -->
-<link rel="stylesheet" href="hotelclaris/assets/stylesheets/index.css">
+<link rel="stylesheet" href="hotelclaris/hotelclaris/assets/stylesheets/index.css">
 
 ## Welcome to Hotel CLARIS!
 
@@ -70,11 +70,11 @@ We offer accommodation in single and double rooms in standard and comfort catego
 <!-- START: Room Cards -->
 <section class="featured-rooms-section">
   <div class="featured-room" onclick="location.href='02.rooms/#single-rooms'">
-    <img src="hotelclaris/assets/fotky-hotelu/jednoluzko-komfort2.jpg" alt="Single Room">
+    <img src="hotelclaris/hotelclaris/assets/fotky-hotelu/jednoluzko-komfort2.jpg" alt="Single Room">
     <div class="room-label">Single Rooms</div>
   </div>
   <div class="featured-room" onclick="location.href='02.rooms/#double-rooms'">
-    <img src="hotelclaris/assets/fotky-hotelu/dvojluzko-2-komfort.jpg" alt="Double Room">
+    <img src="hotelclaris/hotelclaris/assets/fotky-hotelu/dvojluzko-2-komfort.jpg" alt="Double Room">
     <div class="room-label">Double Rooms</div>
   </div>
 </section>
