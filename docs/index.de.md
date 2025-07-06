@@ -67,18 +67,16 @@ hide:
 
 Wir bieten Einzel- und Doppelzimmer in den Kategorien Standard und Komfort!
 
-<!-- START: Room Cards -->
 <section class="featured-rooms-section">
-  <div class="featured-room" onclick="location.href='02.rooms/#einzelzimmer'">
-    <img src="/assets/fotky_hotelu/jednoluzko.webp" alt="Einzelzimmer">
+  <div class="featured-room" onclick="location.href='02.rooms/#einzelzimmer'" style="cursor: pointer;">
+    <img src="/assets/fotky_hotelu/jednoluzko.webp" alt="Jednolůžkový apartmán" draggable="false">
     <div class="room-label">Einzelzimmer</div>
   </div>
-  <div class="featured-room" onclick="location.href='02.rooms/#doppelzimmer'">
-    <img src="/assets/fotky_hotelu/dvouluzko.webp" alt="Doppelzimmer">
+  <div class="featured-room" onclick="location.href='02.rooms/#doppelzimmer'" style="cursor: pointer;">
+    <img src="/assets/fotky_hotelu/dvouluzko.webp" alt="Dvoulůžkový apartmán" draggable="false">
     <div class="room-label">Doppelzimmer</div>
   </div>
 </section>
-<!-- END: Room Cards -->
 
 <div id="booking-title">Nutzen Sie unser Sonderangebot und buchen Sie Ihr Zimmer über das Reservierungsformular.</div>
 

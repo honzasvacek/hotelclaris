@@ -73,18 +73,17 @@ hide:
 
 Nabízíme ubytování ve dvoulůžkových a jednolůžkových pokojích v kategorii standard a komfort!
 
-<!-- START: Room Cards -->
 <section class="featured-rooms-section">
-  <div class="featured-room" onclick="location.href='02.rooms/#jednoluzkove-pokoje'">
-    <img src="/assets/fotky_hotelu/jednoluzko.webp" alt="Jednolůžkový apartmán">
+  <div class="featured-room" onclick="location.href='02.rooms/#jednoluzkove-pokoje'" style="cursor: pointer;">
+    <img src="/assets/fotky_hotelu/jednoluzko.webp" alt="Jednolůžkový apartmán" draggable="false">
     <div class="room-label">Jednolůžkové</div>
   </div>
-  <div class="featured-room" onclick="location.href='02.rooms/#dvouluzkove-pokoje'">
-    <img src="/assets/fotky_hotelu/dvouluzko.webp" alt="Dvoulůžkový apartmán">
+  <div class="featured-room" onclick="location.href='02.rooms/#dvouluzkove-pokoje'" style="cursor: pointer;">
+    <img src="/assets/fotky_hotelu/dvouluzko.webp" alt="Dvoulůžkový apartmán" draggable="false">
     <div class="room-label">Dvoulůžkové</div>
   </div>
 </section>
-<!-- END: Room Cards -->
+
 
 <div id="booking-title">Sledujte naši speciální nabídku a rezervujte si pokoje pomocí rezervačního formuláře.</div>
 

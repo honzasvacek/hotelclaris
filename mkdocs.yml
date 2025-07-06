@@ -51,6 +51,7 @@ theme:
       accent: custom
 
 extra_css:
+  - assets/stylesheets/gallery-all-photos.css
   - assets/stylesheets/swiping-gallery.css
   - assets/stylesheets/customcolors.css
   - assets/stylesheets/imagezoom.css

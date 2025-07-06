@@ -67,18 +67,16 @@ hide:
 
 We offer accommodation in single and double rooms in standard and comfort categories!
 
-<!-- START: Room Cards -->
 <section class="featured-rooms-section">
-  <div class="featured-room" onclick="location.href='02.rooms/#single-rooms'">
-    <img src="/assets/fotky_hotelu/jednoluzko.webp" alt="Single Room">
+  <div class="featured-room" onclick="location.href='02.rooms/#single-rooms'" style="cursor: pointer;">
+    <img src="/assets/fotky_hotelu/jednoluzko.webp" alt="Jednolůžkový apartmán" draggable="false">
     <div class="room-label">Single Rooms</div>
   </div>
-  <div class="featured-room" onclick="location.href='02.rooms/#double-rooms'">
-    <img src="/assets/fotky_hotelu/dvouluzko.webp" alt="Double Room">
-    <div class="room-label">Double Rooms</div>
+  <div class="featured-room" onclick="location.href='02.rooms/#double-rooms'" style="cursor: pointer;">
+    <img src="/assets/fotky_hotelu/dvouluzko.webp" alt="Dvoulůžkový apartmán" draggable="false">
+    <div class="room-label">DDouble Rooms<</div>
   </div>
 </section>
-<!-- END: Room Cards -->
 
 <div id="booking-title">Check out our special offer and book your stay using the reservation form.</div>
 
