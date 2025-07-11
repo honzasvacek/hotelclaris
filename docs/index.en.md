@@ -15,7 +15,7 @@ hide:
   <div class="mobile-reserve-btn-wrapper">
     <a href="#booking-title" class="mobile-reserve-btn">Book now</a>
   </div>
-  <form id="hotelBookingForm" class="reservation-bar">
+  <form id="hotelBookingForm" class="reservation-bar" data-lang="en-EN">
     <div class="promo-sticker-bar">
       <span>&#9432; Use code <strong>PRAHAVIP5</strong> for 5% off</span>
     </div>
@@ -74,7 +74,7 @@ We offer accommodation in single and double rooms in standard and comfort catego
   </div>
   <div class="featured-room" onclick="location.href='02.rooms/#double-rooms'" style="cursor: pointer;">
     <img src="/assets/fotky_hotelu/dvouluzko.webp" alt="Dvoulůžkový apartmán" draggable="false">
-    <div class="room-label">DDouble Rooms<</div>
+    <div class="room-label">Double Rooms</div>
   </div>
 </section>
 

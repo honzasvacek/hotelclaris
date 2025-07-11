@@ -15,7 +15,7 @@ hide:
   <div class="mobile-reserve-btn-wrapper">
     <a href="#booking-title" class="mobile-reserve-btn">Jetzt buchen</a>
   </div>
-  <form id="hotelBookingForm" class="reservation-bar">
+  <form id="hotelBookingForm" class="reservation-bar" data-lang="de-DE">
   <div class="promo-sticker-bar">
   <span>&#9432; Verwenden Sie den Code <strong>PRAHAVIP5</strong> für 5% Rabatt</span>
 </div>

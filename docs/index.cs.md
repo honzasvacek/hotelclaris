@@ -14,7 +14,7 @@ hide:
   <div class="mobile-reserve-btn-wrapper">
     <a href="#booking-title" class="mobile-reserve-btn">Rezervovat</a>
   </div>
-  <form id="hotelBookingForm" class="reservation-bar">
+  <form id="hotelBookingForm" class="reservation-bar" data-lang="cs-CZ">
             <div class="promo-sticker-bar">
               <span>&#9432; Použijte kód <strong>PRAHAVIP5</strong> pro 5% slevu</span>
             </div>
