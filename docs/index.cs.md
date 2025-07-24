@@ -71,7 +71,7 @@ hide:
 
 ## Vítejte v hotelu CLARIS!
 
-Nabízíme ubytování ve dvoulůžkových a jednolůžkových pokojích v kategorii standard a komfort!
+Nabízíme ubytování ve dvoulůžkových a jednolůžkových pokojích v kategorii SUPERIOR a ECONOMY!
 
 <section class="featured-rooms-section">
   <div class="featured-room" onclick="location.href='02.rooms/#jednoluzkove-pokoje'" style="cursor: pointer;">

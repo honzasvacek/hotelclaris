@@ -65,7 +65,7 @@ hide:
 
 ## Welcome to Hotel CLARIS!
 
-We offer accommodation in single and double rooms in standard and comfort categories!
+We offer accommodation in single and double rooms in SUPERIOR and ECONOMY categories!
 
 <section class="featured-rooms-section">
   <div class="featured-room" onclick="location.href='02.rooms/#single-rooms'" style="cursor: pointer;">

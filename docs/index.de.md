@@ -65,7 +65,7 @@ hide:
 
 ## Willkommen im Hotel CLARIS!
 
-Wir bieten Einzel- und Doppelzimmer in den Kategorien Standard und Komfort!
+Wir bieten Einzel- und Doppelzimmer in den Kategorien SUPERIOR und ECONOMY!
 
 <section class="featured-rooms-section">
   <div class="featured-room" onclick="location.href='02.rooms/#einzelzimmer'" style="cursor: pointer;">
