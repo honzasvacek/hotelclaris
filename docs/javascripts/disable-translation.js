@@ -1,6 +1,16 @@
 document.addEventListener("DOMContentLoaded", function () {
-  document.documentElement.setAttribute("translate", "no");
-  document.documentElement.classList.add("notranslate");
-});
+  const html = document.documentElement;
 
-/* Can't be disable on mozilla Firefox */
+  // Prevent translation in Chrome and Edge
+  html.setAttribute("translate", "no");
+  html.classList.add("notranslate");
+
+  // Declare correct language (e.g., Czech)
+  html.setAttribute("lang", "cs"); // Change to "en", "de", etc. as needed
+
+  // Prevent Google Translate via meta tag (optional, Chrome only)
+  const meta = document.createElement("meta");
+  meta.setAttribute("name", "google");
+  meta.setAttribute("content", "notranslate");
+  document.head.appendChild(meta);
+});
