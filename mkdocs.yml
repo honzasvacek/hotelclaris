@@ -119,13 +119,13 @@ plugins:
       languages:
         - locale: en
           default: true
-          name: 🇬🇧 English
+          name: <img alt='en' src='/assets/flag-icons/gb.svg.webp' width='25'> English
           build: true
         - locale: cs
-          name: 🇨🇿 Česky
+          name: <img alt='cz' src='/assets/flag-icons/cz.svg.webp' width='25'> Česky
           build: true
         - locale: de 
-          name: 🇩🇪 Deutsch
+          name: "<img alt='de' src='/assets/flag-icons/de.svg.webp' width='25'> Deutsch"
           build: true
         
 

@@ -160,11 +160,6 @@
   background-size: cover;
   object-fit: cover;
 }
-@media (max-width: 650px) {
-  .hero-banner {
-    background-image: url('/assets/fotky_hotelu/hero-phone.webp');
-  }
-}
 .promo-sticker-bar {
     position: absolute;
     bottom: 68px;

@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
       },
       slidesPerView: 1,
       spaceBetween: 20,
-      centeredSlides: true,
+      centeredSlides: false,
       breakpoints: {
         768: {
           slidesPerView: 2,

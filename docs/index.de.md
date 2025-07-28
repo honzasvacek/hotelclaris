@@ -69,11 +69,11 @@ Wir bieten Einzel- und Doppelzimmer in den Kategorien SUPERIOR und ECONOMY!
 
 <section class="featured-rooms-section">
   <div class="featured-room" onclick="location.href='02.rooms/#einzelzimmer'" style="cursor: pointer;">
-    <img src="/assets/fotky_hotelu/jednoluzko.webp" alt="Jednolůžkový apartmán" draggable="false">
+    <img src="/assets/fotky_hotelu/superior-single-1.webp" alt="Single" draggable="false">
     <div class="room-label">Einzelzimmer</div>
   </div>
   <div class="featured-room" onclick="location.href='02.rooms/#doppelzimmer'" style="cursor: pointer;">
-    <img src="/assets/fotky_hotelu/dvouluzko.webp" alt="Dvoulůžkový apartmán" draggable="false">
+    <img src="/assets/fotky_hotelu/superior-double-1.webp" style="object-position: right;" alt="Double" draggable="false">
     <div class="room-label">Doppelzimmer</div>
   </div>
 </section>
@@ -84,8 +84,8 @@ Wir bieten Einzel- und Doppelzimmer in den Kategorien SUPERIOR und ECONOMY!
 
 Oder kontaktieren Sie uns unter:
 
-- :fontawesome-solid-phone: **Telefon:** +420 775712882 (Reservierungen), +420 608712854 (Rezeption)  
-- :fontawesome-regular-envelope: **E-Mail:** reservation@petrs.cz
+- :fontawesome-solid-phone: **Telefon:** [**+420 775712882**](tel:+420775712882) (Reservierungen), [**+420 608712854**](tel:+420608712854) (Rezeption)  
+- :fontawesome-regular-envelope: **E-Mail:** [**reservation@petrs.cz**](mailto:reservation@petrs.cz)
 
 Wir freuen uns auf Ihren Besuch!
 
