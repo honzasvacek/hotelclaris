@@ -5,8 +5,8 @@ document.addEventListener("DOMContentLoaded", function () {
   html.setAttribute("translate", "no");
   html.classList.add("notranslate");
 
-  // Declare correct language (e.g., Czech)
-  html.setAttribute("lang", "cs"); // Change to "en", "de", etc. as needed
+  // Firefox needed
+  html.setAttribute("lang", "cs"); 
 
   // Prevent Google Translate via meta tag (optional, Chrome only)
   const meta = document.createElement("meta");
