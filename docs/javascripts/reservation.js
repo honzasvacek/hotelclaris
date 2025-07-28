@@ -127,3 +127,5 @@ document.querySelector('.mobile-reserve-btn')?.addEventListener('click', functio
     target.scrollIntoView({ behavior: 'smooth' });
   }
 });
+
+
